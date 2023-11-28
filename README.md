@@ -52,3 +52,5 @@ Backend project is a team project so:
   - Do anything but blocking your time in solving a problem that doesn't really make any huge impact or not in your interest to learn or improve
 - Not being active or proactive when you have potentially a common issue.
 - Ooh I have 3 weeks (1_814_000 seconds), plenty of time.
+  
+Nov 28
